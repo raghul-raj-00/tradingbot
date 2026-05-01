@@ -1,6 +1,6 @@
 🔑 Setup Instructions
 1. Clone the repository
-git clone https://github.com/your-username/tradingbot.git
+git clone https://github.com/raghul-raj-00/tradingbot.git
 cd tradingbot
 2. Install dependencies
 pip install -r requirements.txt
